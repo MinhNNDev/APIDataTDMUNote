@@ -1,5 +1,7 @@
 # APIDataTDMUNote
+
 # LẤY DANH SÁCH BÀI VIẾT MỚI NHẤT
+
 http://localhost:3000/api/news
 
 
@@ -9,9 +11,13 @@ http://localhost:3000/api/news?cat=9
 - `cat` là id chuyên mục, theo bảng bên dưới
 
 Tin tổng hợp:         9
+
 Công đoàn - Đoàn TN:  12
+
 Tin đào tạo:          13
+
 Hợp tác đối ngoại:    16
+
 Nghiên cứu Khoa học:  21
 
 # LẤY DANH SÁCH BÀI VIẾT TỪ VỊ TRÍ
