@@ -7,6 +7,7 @@ http://localhost:3000/api/news
 http://localhost:3000/api/news?cat=9
 
 - `cat` là id chuyên mục, theo bảng bên dưới
+
 Tin tổng hợp:         9
 Công đoàn - Đoàn TN:  12
 Tin đào tạo:          13
@@ -27,6 +28,7 @@ http://localhost:3000/api/news/{CAT_NAME}|{ID_NAME}
 VD:
 
 {CAT_NAME} = 'tin-dao-tao'
+
 {ID_NAME} = 'nhung-nganh-hoc-moi-dap-ung-nhu-cau-lao-dong-cong-nghe-ky-thuat-cao-1'
 
 http://localhost:3000/api/news/tin-dao-tao|nhung-nganh-hoc-moi-dap-ung-nhu-cau-lao-dong-cong-nghe-ky-thuat-cao-1
